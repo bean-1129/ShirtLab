@@ -38,8 +38,6 @@ ShirtLab is a dynamic and interactive web application that empowers users to cus
 
 ---
 
-## Installation
-
 ### Prerequisites
 Ensure you have the following installed:
 - Node.js (v18+ recommended)
